@@ -6,3 +6,8 @@ numpy
 matplotlib
 plotly
 IPython
+string
+nltk
+wordcloud
+textblob
+seaborn
